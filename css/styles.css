@@ -38,8 +38,23 @@ font-size: 1.5em;
 
 /* THIRD ATTEMPT */
 
+body {
+  font-family: Arial;
+  margin: 0;
+
+}
+
 * {
   box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.constricter {
+	width: 531px;
+	margin:0 auto;
 }
 
 /* Position the image container (needed to position the left and right arrows) */
